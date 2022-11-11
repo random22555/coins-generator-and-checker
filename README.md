@@ -1,0 +1,1 @@
+# coins-generator-and-checker
